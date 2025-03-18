@@ -36,9 +36,13 @@ Desenvolvedor apaixonado por tecnologia e inovação. Sempre em busca de novos d
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 
 ## Estatísticas do GitHub 📊
-![Estatísticas do GitHub](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alexssmusica&theme=nord_dark&count_private=true)
+![Estatísticas do GitHub](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alexssmusica&theme=nord_dark)
 
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexssmusica&layout=compact&theme=dracula)
+
+![Top Lingaugens dos Repositorios](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alexssmusica&theme=nord_dark)
+
+![Top Lingaugens dos Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Alexssmusica&theme=nord_dark)
 
 ## Projetos em Destaque ⭐
 - [printer-electron-node](https://github.com/Alexssmusica/printer-electron-node) - Node.js e Electron bindings para gerenciamento e impressão direta em impressoras. Suporta Windows e Linux (CUPS).
