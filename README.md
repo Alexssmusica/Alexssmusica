@@ -38,7 +38,7 @@ Desenvolvedor apaixonado por tecnologia e inovação. Sempre em busca de novos d
 ## Estatísticas do GitHub 📊
 ![Estatísticas do GitHub](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alexssmusica&theme=nord_dark&count_private=true)
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexssmusica&layout=compact&theme=nord_dark)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexssmusica&layout=compact&theme=dracula)
 
 ## Projetos em Destaque ⭐
 - [printer-electron-node](https://github.com/Alexssmusica/printer-electron-node) - Node.js e Electron bindings para gerenciamento e impressão direta em impressoras. Suporta Windows e Linux (CUPS).
