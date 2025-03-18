@@ -36,7 +36,7 @@ Desenvolvedor apaixonado por tecnologia e inovação. Sempre em busca de novos d
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 
 ## Estatísticas do GitHub 📊
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Alexssmusica&show_icons=true&theme=dracula&count_private=true)
+![Estatísticas do GitHub](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alexssmusica&theme=dracula&count_private=true)
 
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexssmusica&layout=compact&theme=dracula)
 
