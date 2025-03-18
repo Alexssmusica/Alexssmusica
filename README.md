@@ -33,6 +33,10 @@ Desenvolvedor apaixonado por tecnologia e inovação. Sempre em busca de novos d
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
+### Cloud
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+
 ## Estatísticas do GitHub 📊
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Alexssmusica&show_icons=true&theme=dracula&count_private=true)
 
