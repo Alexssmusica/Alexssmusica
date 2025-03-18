@@ -38,6 +38,8 @@ Desenvolvedor apaixonado por tecnologia e inovação. Sempre em busca de novos d
 ## Estatísticas do GitHub 📊
 ![Estatísticas do GitHub](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alexssmusica&theme=nord_dark)
 
+![Status](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alexssmusica&theme=nord_dark)
+
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexssmusica&layout=compact&theme=dracula)
 
 ![Top Lingaugens dos Repositorios](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alexssmusica&theme=nord_dark)
