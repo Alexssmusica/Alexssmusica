@@ -54,6 +54,7 @@ Desenvolvedor apaixonado por tecnologia e inovação. Sempre em busca de novos d
 - [printer-electron-node](https://github.com/Alexssmusica/printer-electron-node) - Node.js e Electron bindings para gerenciamento e impressão direta em impressoras. Suporta Windows e Linux (CUPS).
 - [printer-pdf-electron-node](https://github.com/Alexssmusica/printer-pdf-electron-node) - Uma biblioteca Node.js para impressão de arquivos PDF com suporte avançado a configurações de impressão. Funciona com Node.js e Electron.
 - [node-pdf-nfe](https://github.com/Alexssmusica/node-pdf-nfe) - Biblioteca para geração Danfe NF-e/NFC-e em aplicações node.js
+- [ffi-libraries](https://github.com/Alexssmusica/ffi-libraries) - Uma poderosa biblioteca Node.js para carregar e chamar funções de bibliotecas dinâmicas DLLs com suporte para ambientes Node.js e Electron
 - [danfenfeonline](https://danfenfeonline.com.br/gerar-danfe) - Site para geração Danfe NF-e/NFC-e
 
 ## Entre em contato 📫
